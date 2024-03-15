@@ -1,0 +1,158 @@
+ <script>
+      
+		let btn = document.getElementById('demo');
+		let output = document.getElementById('output');
+
+		  
+		btn.addEventListener('click', () => {  
+		let question1 = 7;
+		let question2 = 8;
+		let question3 = 9;
+		let question4 = 10;
+		let question5 = 11;
+		let question6 = 12;
+		let question7 = 13;
+		let question8 = 14;
+		let question9 = 15;
+    	let question10 = 16;
+		let question11 = 17;
+		let question12 = 18;
+		let question13 = 19;
+		let question14 = 20;
+		let question15 = 21;
+		let question16 = 22;
+		let question17 = 23;
+		let question18 = 24;
+		let question19 = 25;
+		let question20 = 26;
+		let check1 = document.getElementsByName('Q1');
+		let check2 = document.getElementsByName('Q2');		
+		let check3 = document.getElementsByName('Q3');		
+		let check4 = document.getElementsByName('Q4');	
+		let check5 = document.getElementsByName('Q5');	
+		let check6 = document.getElementsByName('Q6');	
+		let check7 = document.getElementsByName('Q7');	
+		let check8 = document.getElementsByName('Q8');	
+		let check9 = document.getElementsByName('Q9');	
+		let check10 = document.getElementsByName('Q10');	
+		let check11 = document.getElementsByName('Q11');	
+		let check12 = document.getElementsByName('Q12');	
+		let check13 = document.getElementsByName('Q13');	
+		let check14 = document.getElementsByName('Q14');	
+		let check15 = document.getElementsByName('Q15');	
+		let check16 = document.getElementsByName('Q15');	
+		let check17 = document.getElementsByName('Q17');	
+		let check18 = document.getElementsByName('Q18');	
+		let check19 = document.getElementsByName('Q19');	
+		let check20 = document.getElementsByName('Q20');	
+			
+			
+		check1.forEach((Q1) =>{
+			if (Q1.checked){
+				question1 = Q1.value
+				output.innerText = `You selected: ${question1}`;
+			 }
+            });		
+		  check2.forEach((Q2) =>{
+			if (Q2.checked){
+				 question2 = Q2.value
+			 }
+            });
+		  check3.forEach((Q3) =>{
+			if (Q3.checked){
+				 question3 = Q3.value
+			 }
+            });
+		  check4.forEach((Q4) =>{
+			if (Q4.checked){
+				 question4 = Q4.value
+			 }
+            });
+		  check5.forEach((Q5) =>{
+			if (Q5.checked){
+				 question5 = Q5.value
+			 }
+            });
+		  check6.forEach((Q6) =>{
+			if (Q6.checked){
+				 question6 = Q6.value
+			 }
+            });
+		  check7.forEach((Q7) =>{
+			if (Q7.checked){
+				 question7 = Q7.value
+			 }
+            });
+		  check8.forEach((Q8) =>{
+			if (Q8.checked){
+				 question8 = Q8.value
+			 }
+            });
+		  check9.forEach((Q9) =>{
+			if (Q9.checked){
+				 question9 = Q9.value
+			 }
+            });
+		  check10.forEach((Q10) =>{
+			if (Q10.checked){
+				 question10 = Q10.value
+			 }
+            });
+		check11.forEach((Q11) =>{
+			if (Q11.checked){
+				 question11 = Q11.value
+			 }
+            });		
+		  check12.forEach((Q12) =>{
+			if (Q12.checked){
+				 question12 = Q12.value
+			 }
+            });
+		  check13.forEach((Q13) =>{
+			if (Q13.checked){
+				 question13 = Q13.value
+			 }
+            });
+		  check14.forEach((Q14) =>{
+			if (Q14.checked){
+				 question14 = Q14.value
+			 }
+            });
+		  check15.forEach((Q15) =>{
+			if (Q15.checked){
+				 question15 = Q15.value
+			 }
+            });
+		  check16.forEach((Q16) =>{
+			if (Q16.checked){
+				 question16 = Q16.value
+			 }
+            });
+		  check17.forEach((Q17) =>{
+			if (Q17.checked){
+				 question17 = Q17.value
+			 }
+            });
+		  check18.forEach((Q18) =>{
+			if (Q18.checked){
+				 question18 = Q18.value
+			 }
+            });
+		  check19.forEach((Q19) =>{
+			if (Q19.checked){
+				 question19 = Q19.value
+			 }
+            });
+		  check20.forEach((Q20) =>{
+			if (Q20.checked){
+				 question20 = Q20.value
+			 }
+            });
+		
+   // end of button listner
+		);
+		
+			
+
+	
+	  </script>

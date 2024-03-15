@@ -1,0 +1,913 @@
+<!-- Question 2 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q2" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q2" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q2" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q2" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q2" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+	  
+<!-- Question 3 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q3" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q3" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q3" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q3" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q3" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+<!-- Question 4 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q4" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q4" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q4" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q4" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q4" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->		  
+<!-- Question 5 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q5" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q5" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q5" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q5" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q5" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->
+<!-- Question 6 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q6" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q6" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q6" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q6" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q6" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->
+<!-- Question 7 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q7" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q7" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q7" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q7" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q7" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+<!-- Question 8 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q8" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q8" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q8" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q8" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q8" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+<!-- Question 9 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q9" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q9" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q9"value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q9" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q9" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+<!-- Question 10 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q10" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q10" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q10" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q10" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q10" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->
+<!-- Question 11 -->
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q11" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q11" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q11" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q11" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q11" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+	  
+
+
+<!-- end of question -->
+
+<!-- Question 12 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q12" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q12" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q12" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q12" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q12" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+	  
+<!-- Question 13 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q13" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q13" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q13" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q13" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q13" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+<!-- Question 14 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q14" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q14" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q14" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q14" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q14" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->		  
+<!-- Question 15 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q15" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q15" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q15" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q15" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q15" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->
+<!-- Question 16 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q16" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q16" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q16" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q16" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q16" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->
+<!-- Question 17 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q17" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q17" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q17" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q17" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q17" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+<!-- Question 18 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q18" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q18" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q18" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q18" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q18" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+<!-- Question 19 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q19" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q19" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q19"value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q19" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q19" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
+<!-- Question 20 -->
+
+
+  <form class="px-4" action="">
+    <p class="fw-bold">Choose one or more options</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q20" value="1" id="1" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Agree
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q20" value="2" id="2" />
+      <label class="form-check-label" for="flexCheckDefault2">
+        Disagree 
+      </label>
+    </div>
+
+    <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q20" value="3" id="3" />
+      <label class="form-check-label" for="flexCheckDefault3">
+        Strongly Agree 
+      </label>
+    </div>
+
+
+
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q20" value="4" id="4" />
+      <label class="form-check-label" for="flexCheckDefault4">
+        Strongly Disagree 
+      </label>
+    </div>
+  
+ <!-- Checked checkbox -->
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" data-limit="only-one-in-a-group" name="Q20" value="5" id="5" />
+      <label class="form-check-label" for="flexCheckDefault5">
+        i dont know  
+      </label>
+    </div>
+  
+<br>	
+<!-- end of question -->	
